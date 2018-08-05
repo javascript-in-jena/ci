@@ -1,140 +1,595 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- generated at drububu.com  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="640px" height="640px" viewBox="0 0 640 640">
-<path d="M0 0h640v640h-640v-640z" fill="rgb(251,251,250)"/>
-<path d="M288 24h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M312 24h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M336 24h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M192 48h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M264 48h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M288 48h72v24h-72v-24z" fill="rgb(237,209,16)"/>
-<path d="M360 48h24v48h-24v-48z" fill="rgb(216,207,161)"/>
-<path d="M192 72h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M216 72h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M264 72h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M288 72h72v24h-72v-24z" fill="rgb(203,175,37)"/>
-<path d="M408 72h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M432 72h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M168 96h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M192 96h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M216 96h24v72h-24v-72z" fill="rgb(237,209,16)"/>
-<path d="M240 96h48v24h-48v-24z" fill="rgb(216,207,161)"/>
-<path d="M288 96h24v48h-24v-48z" fill="rgb(177,152,28)"/>
-<path d="M312 96h24v72h-24v-72z" fill="rgb(207,158,83)"/>
-<path d="M336 96h24v48h-24v-48z" fill="rgb(177,152,28)"/>
-<path d="M360 96h24v48h-24v-48z" fill="rgb(251,251,250)"/>
-<path d="M384 96h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M408 96h24v24h24v168h-24v-48h-24v-72h-24v-24h24v-48z" fill="rgb(237,209,16)"/>
-<path d="M432 96h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M168 120h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M192 120h24v24h-24v-24z" fill="rgb(207,158,83)"/>
-<path d="M240 120h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M264 120h24v24h-24v-24z" fill="rgb(251,251,250)"/>
-<path d="M384 120h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M456 120h24v168h-24v-168z" fill="rgb(216,207,161)"/>
-<path d="M168 144h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M192 144h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M240 144h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M264 144h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M288 144h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M336 144h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M360 144h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M168 168h24v24h24v24h24v-24h24v120h-48v-24h-24v-72h-24v-48z" fill="rgb(237,209,16)"/>
-<path d="M192 168h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M216 168h48v24h-48v-24z" fill="rgb(207,158,83)"/>
-<path d="M264 168h24v24h24v24h-48v-48z" fill="rgb(203,175,37)"/>
-<path d="M288 168h24v24h-24v-24z" fill="rgb(237,209,16)"/>
-<path d="M312 168h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M336 168h24v72h-72v-24h24v-24h24v-24z" fill="rgb(237,209,16)"/>
-<path d="M360 168h48v96h-24v-72h-24v-24z" fill="rgb(207,158,83)"/>
-<path d="M216 192h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M360 192h24v48h-24v-48z" fill="rgb(177,152,28)"/>
-<path d="M168 216h24v120h-24v-120z" fill="rgb(219,199,90)"/>
-<path d="M264 216h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M264 240h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M288 240h72v24h-72v-24z" fill="rgb(216,207,161)"/>
-<path d="M360 240h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M408 240h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M264 264h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M288 264h72v24h-48v24h-24v-48z" fill="rgb(251,251,250)"/>
-<path d="M360 264h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M384 264h24v48h-24v-48z" fill="rgb(203,175,37)"/>
-<path d="M408 264h24v24h-24v-24z" fill="rgb(207,158,83)"/>
-<path d="M480 264h24v24h-24v-24z" fill="rgb(152,159,160)"/>
-<path d="M192 288h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M264 288h24v144h-24v-144z" fill="rgb(152,159,160)"/>
-<path d="M312 288h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M336 288h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M360 288h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M408 288h24v24h-24v-24z" fill="rgb(130,115,73)"/>
-<path d="M432 288h24v120h-48v-24h24v-96z" fill="rgb(177,152,28)"/>
-<path d="M456 288h24v72h-24v-72z" fill="rgb(191,190,161)"/>
-<path d="M480 288h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M192 312h48v24h-48v-24z" fill="rgb(177,152,28)"/>
-<path d="M240 312h24v24h-24v-24z" fill="rgb(219,199,90)"/>
-<path d="M288 312h72v120h-24v-96h-24v96h-24v-120z" fill="rgb(19,69,167)"/>
-<path d="M360 312h48v24h-48v-24z" fill="rgb(177,152,28)"/>
-<path d="M408 312h24v72h-24v-24h-24v-24h24v-24z" fill="rgb(69,99,40)"/>
-<path d="M480 312h24v24h-24v-24z" fill="rgb(15,116,45)"/>
-<path d="M168 336h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M192 336h24v72h-24v-72z" fill="rgb(152,159,160)"/>
-<path d="M216 336h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M240 336h24v48h-24v-48z" fill="rgb(251,251,250)"/>
-<path d="M312 336h24v96h-24v-96z" fill="rgb(12,60,151)"/>
-<path d="M360 336h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M480 336h24v72h-24v-72z" fill="rgb(7,133,46)"/>
-<path d="M504 336h24v48h-24v-48z" fill="rgb(216,207,161)"/>
-<path d="M168 360h24v24h-24v-24z" fill="rgb(130,115,73)"/>
-<path d="M216 360h24v24h-24v-24z" fill="rgb(69,99,40)"/>
-<path d="M360 360h24v24h-24v-24z" fill="rgb(237,209,16)"/>
-<path d="M384 360h24v24h-24v-24z" fill="rgb(177,152,28)"/>
-<path d="M456 360h24v24h-24v-24z" fill="rgb(152,159,160)"/>
-<path d="M168 384h24v24h-24v-24z" fill="rgb(7,133,46)"/>
-<path d="M216 384h24v24h-24v-24z" fill="rgb(7,133,46)"/>
-<path d="M240 384h24v48h-24v-48z" fill="rgb(191,190,161)"/>
-<path d="M360 384h24v24h-24v-24z" fill="rgb(130,115,73)"/>
-<path d="M384 384h24v24h-24v-24z" fill="rgb(203,175,37)"/>
-<path d="M456 384h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M168 408h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M192 408h24v24h24v24h72v24h-72v24h24v24h-96v-24h48v-24h-24v-72z" fill="rgb(7,133,46)"/>
-<path d="M216 408h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M360 408h24v24h-24v-24z" fill="rgb(152,159,160)"/>
-<path d="M384 408h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M408 408h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M432 408h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M456 408h24v72h-24v24h-48v-48h24v-24h24v-24z" fill="rgb(7,133,46)"/>
-<path d="M480 408h24v24h-24v-24z" fill="rgb(15,116,45)"/>
-<path d="M168 432h24v72h-24v-72z" fill="rgb(152,159,160)"/>
-<path d="M240 432h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M264 432h72v24h24v24h-48v-24h-48v-24z" fill="rgb(15,116,45)"/>
-<path d="M336 432h24v24h-24v-24z" fill="rgb(207,158,83)"/>
-<path d="M360 432h24v24h-24v-24z" fill="rgb(130,115,73)"/>
-<path d="M384 432h48v24h-24v48h48v24h-96v-48h24v-48z" fill="rgb(15,116,45)"/>
-<path d="M480 432h24v24h-24v-24z" fill="rgb(90,141,101)"/>
-<path d="M360 456h24v24h-24v-24z" fill="rgb(7,133,46)"/>
-<path d="M480 456h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M144 480h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M192 480h24v24h-24v-24z" fill="rgb(15,116,45)"/>
-<path d="M240 480h48v24h-48v-24z" fill="rgb(15,116,45)"/>
-<path d="M288 480h72v24h-72v-24z" fill="rgb(69,99,40)"/>
-<path d="M456 480h24v24h-24v-24z" fill="rgb(15,116,45)"/>
-<path d="M144 504h24v24h-24v-24z" fill="rgb(69,99,40)"/>
-<path d="M264 504h24v24h-24v-24z" fill="rgb(152,159,160)"/>
-<path d="M288 504h24v24h-24v-24z" fill="rgb(251,251,250)"/>
-<path d="M312 504h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M336 504h24v24h-24v-24z" fill="rgb(251,251,250)"/>
-<path d="M456 504h24v24h-24v-24z" fill="rgb(7,133,46)"/>
-<path d="M480 504h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M144 528h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M168 528h24v24h-24v-24z" fill="rgb(152,159,160)"/>
-<path d="M192 528h96v24h24v48h-24v-24h-24v-24h-72v-24z" fill="rgb(216,207,161)"/>
-<path d="M288 528h48v72h-24v-48h-24v-24z" fill="rgb(152,159,160)"/>
-<path d="M336 528h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M360 528h24v24h-24v-24z" fill="rgb(152,159,160)"/>
-<path d="M384 528h24v24h-24v-24z" fill="rgb(191,190,161)"/>
-<path d="M408 528h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M336 552h24v24h-24v-24z" fill="rgb(251,251,250)"/>
-<path d="M360 552h24v24h-24v-24z" fill="rgb(216,207,161)"/>
-<path d="M336 576h24v24h-24v-24z" fill="rgb(216,207,161)"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="xMinYMin meet"
+   x="0px"
+   y="0px"
+   width="640px"
+   height="640px"
+   viewBox="0 0 640 640"
+   id="svg39047"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="verpixelteswappen_16_colors.svg">
+  <metadata
+     id="metadata39323">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs39321" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview39319"
+     showgrid="false"
+     inkscape:zoom="0.7375"
+     inkscape:cx="-184.63234"
+     inkscape:cy="134.40715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39047" />
+  <g
+     id="g40565">
+    <path
+       id="path39051"
+       fill="rgb(216,207,161)"
+       d="M288 24h24v24h-24v-24z" />
+    <path
+       id="path39053"
+       fill="rgb(219,199,90)"
+       d="M312 24h24v24h-24v-24z" />
+    <path
+       id="path39055"
+       fill="rgb(216,207,161)"
+       d="M336 24h24v24h-24v-24z" />
+    <path
+       id="path39057"
+       fill="rgb(216,207,161)"
+       d="M192 48h24v24h-24v-24z" />
+    <path
+       id="path39059"
+       fill="rgb(216,207,161)"
+       d="M264 48h24v24h-24v-24z" />
+    <path
+       id="path39061"
+       fill="rgb(237,209,16)"
+       d="M288 48h72v24h-72v-24z" />
+    <path
+       id="path39063"
+       fill="rgb(216,207,161)"
+       d="M360 48h24v48h-24v-48z" />
+    <path
+       id="path39065"
+       fill="rgb(191,190,161)"
+       d="M192 72h24v24h-24v-24z" />
+    <path
+       id="path39067"
+       fill="rgb(203,175,37)"
+       d="M216 72h24v24h-24v-24z" />
+    <path
+       id="path39069"
+       fill="rgb(219,199,90)"
+       d="M264 72h24v24h-24v-24z" />
+    <path
+       id="path39071"
+       fill="rgb(203,175,37)"
+       d="M288 72h72v24h-72v-24z" />
+    <path
+       id="path39073"
+       fill="rgb(203,175,37)"
+       d="M408 72h24v24h-24v-24z" />
+    <path
+       id="path39075"
+       fill="rgb(216,207,161)"
+       d="M432 72h24v24h-24v-24z" />
+    <path
+       id="path39077"
+       fill="rgb(216,207,161)"
+       d="M168 96h24v24h-24v-24z" />
+    <path
+       id="path39079"
+       fill="rgb(177,152,28)"
+       d="M192 96h24v24h-24v-24z" />
+    <path
+       id="path39081"
+       fill="rgb(237,209,16)"
+       d="M216 96h24v72h-24v-72z" />
+    <path
+       id="path39083"
+       fill="rgb(216,207,161)"
+       d="M240 96h48v24h-48v-24z" />
+    <path
+       id="path39085"
+       fill="rgb(177,152,28)"
+       d="M288 96h24v48h-24v-48z" />
+    <path
+       id="path39087"
+       fill="rgb(207,158,83)"
+       d="M312 96h24v72h-24v-72z" />
+    <path
+       id="path39089"
+       fill="rgb(177,152,28)"
+       d="M336 96h24v48h-24v-48z" />
+    <path
+       id="path39091"
+       fill="rgb(251,251,250)"
+       d="M360 96h24v48h-24v-48z" />
+    <path
+       id="path39093"
+       fill="rgb(216,207,161)"
+       d="M384 96h24v24h-24v-24z" />
+    <path
+       id="path39095"
+       fill="rgb(237,209,16)"
+       d="M408 96h24v24h24v168h-24v-48h-24v-72h-24v-24h24v-48z" />
+    <path
+       id="path39097"
+       fill="rgb(219,199,90)"
+       d="M432 96h24v24h-24v-24z" />
+    <path
+       id="path39099"
+       fill="rgb(219,199,90)"
+       d="M168 120h24v24h-24v-24z" />
+    <path
+       id="path39101"
+       fill="rgb(207,158,83)"
+       d="M192 120h24v24h-24v-24z" />
+    <path
+       id="path39103"
+       fill="rgb(219,199,90)"
+       d="M240 120h24v24h-24v-24z" />
+    <path
+       id="path39105"
+       fill="rgb(251,251,250)"
+       d="M264 120h24v24h-24v-24z" />
+    <path
+       id="path39107"
+       fill="rgb(219,199,90)"
+       d="M384 120h24v24h-24v-24z" />
+    <path
+       id="path39109"
+       fill="rgb(216,207,161)"
+       d="M456 120h24v168h-24v-168z" />
+    <path
+       id="path39111"
+       fill="rgb(203,175,37)"
+       d="M168 144h24v24h-24v-24z" />
+    <path
+       id="path39113"
+       fill="rgb(177,152,28)"
+       d="M192 144h24v24h-24v-24z" />
+    <path
+       id="path39115"
+       fill="rgb(203,175,37)"
+       d="M240 144h24v24h-24v-24z" />
+    <path
+       id="path39117"
+       fill="rgb(177,152,28)"
+       d="M264 144h24v24h-24v-24z" />
+    <path
+       id="path39119"
+       fill="rgb(203,175,37)"
+       d="M288 144h24v24h-24v-24z" />
+    <path
+       id="path39121"
+       fill="rgb(203,175,37)"
+       d="M336 144h24v24h-24v-24z" />
+    <path
+       id="path39123"
+       fill="rgb(177,152,28)"
+       d="M360 144h24v24h-24v-24z" />
+    <path
+       id="path39125"
+       fill="rgb(237,209,16)"
+       d="M168 168h24v24h24v24h24v-24h24v120h-48v-24h-24v-72h-24v-48z" />
+    <path
+       id="path39127"
+       fill="rgb(203,175,37)"
+       d="M192 168h24v24h-24v-24z" />
+    <path
+       id="path39129"
+       fill="rgb(207,158,83)"
+       d="M216 168h48v24h-48v-24z" />
+    <path
+       id="path39131"
+       fill="rgb(203,175,37)"
+       d="M264 168h24v24h24v24h-48v-48z" />
+    <path
+       id="path39133"
+       fill="rgb(237,209,16)"
+       d="M288 168h24v24h-24v-24z" />
+    <path
+       id="path39135"
+       fill="rgb(177,152,28)"
+       d="M312 168h24v24h-24v-24z" />
+    <path
+       id="path39137"
+       fill="rgb(237,209,16)"
+       d="M336 168h24v72h-72v-24h24v-24h24v-24z" />
+    <path
+       id="path39139"
+       fill="rgb(207,158,83)"
+       d="M360 168h48v96h-24v-72h-24v-24z" />
+    <path
+       id="path39141"
+       fill="rgb(203,175,37)"
+       d="M216 192h24v24h-24v-24z" />
+    <path
+       id="path39143"
+       fill="rgb(177,152,28)"
+       d="M360 192h24v48h-24v-48z" />
+    <path
+       id="path39145"
+       fill="rgb(219,199,90)"
+       d="M168 216h24v120h-24v-120z" />
+    <path
+       id="path39147"
+       fill="rgb(177,152,28)"
+       d="M264 216h24v24h-24v-24z" />
+    <path
+       id="path39149"
+       fill="rgb(191,190,161)"
+       d="M264 240h24v24h-24v-24z" />
+    <path
+       id="path39151"
+       fill="rgb(216,207,161)"
+       d="M288 240h72v24h-72v-24z" />
+    <path
+       id="path39153"
+       fill="rgb(219,199,90)"
+       d="M360 240h24v24h-24v-24z" />
+    <path
+       id="path39155"
+       fill="rgb(203,175,37)"
+       d="M408 240h24v24h-24v-24z" />
+    <path
+       id="path39157"
+       fill="rgb(216,207,161)"
+       d="M264 264h24v24h-24v-24z" />
+    <path
+       id="path39159"
+       fill="rgb(251,251,250)"
+       d="M288 264h72v24h-48v24h-24v-48z" />
+    <path
+       id="path39161"
+       fill="rgb(216,207,161)"
+       d="M360 264h24v24h-24v-24z" />
+    <path
+       id="path39163"
+       fill="rgb(203,175,37)"
+       d="M384 264h24v48h-24v-48z" />
+    <path
+       id="path39165"
+       fill="rgb(207,158,83)"
+       d="M408 264h24v24h-24v-24z" />
+    <path
+       id="path39167"
+       fill="rgb(152,159,160)"
+       d="M480 264h24v24h-24v-24z" />
+    <path
+       id="path39169"
+       fill="rgb(203,175,37)"
+       d="M192 288h24v24h-24v-24z" />
+    <path
+       id="path39171"
+       fill="rgb(152,159,160)"
+       d="M264 288h24v144h-24v-144z" />
+    <path
+       id="path39173"
+       fill="rgb(191,190,161)"
+       d="M312 288h24v24h-24v-24z" />
+    <path
+       id="path39175"
+       fill="rgb(216,207,161)"
+       d="M336 288h24v24h-24v-24z" />
+    <path
+       id="path39177"
+       fill="rgb(219,199,90)"
+       d="M360 288h24v24h-24v-24z" />
+    <path
+       id="path39179"
+       fill="rgb(130,115,73)"
+       d="M408 288h24v24h-24v-24z" />
+    <path
+       id="path39181"
+       fill="rgb(177,152,28)"
+       d="M432 288h24v120h-48v-24h24v-96z" />
+    <path
+       id="path39183"
+       fill="rgb(191,190,161)"
+       d="M456 288h24v72h-24v-72z" />
+    <path
+       id="path39185"
+       fill="rgb(90,141,101)"
+       d="M480 288h24v24h-24v-24z" />
+    <path
+       id="path39187"
+       fill="rgb(177,152,28)"
+       d="M192 312h48v24h-48v-24z" />
+    <path
+       id="path39189"
+       fill="rgb(219,199,90)"
+       d="M240 312h24v24h-24v-24z" />
+    <path
+       id="path39191"
+       fill="rgb(19,69,167)"
+       d="M288 312h72v120h-24v-96h-24v96h-24v-120z" />
+    <path
+       id="path39193"
+       fill="rgb(177,152,28)"
+       d="M360 312h48v24h-48v-24z" />
+    <path
+       id="path39195"
+       fill="rgb(69,99,40)"
+       d="M408 312h24v72h-24v-24h-24v-24h24v-24z" />
+    <path
+       id="path39197"
+       fill="rgb(15,116,45)"
+       d="M480 312h24v24h-24v-24z" />
+    <path
+       id="path39199"
+       fill="rgb(177,152,28)"
+       d="M168 336h24v24h-24v-24z" />
+    <path
+       id="path39201"
+       fill="rgb(152,159,160)"
+       d="M192 336h24v72h-24v-72z" />
+    <path
+       id="path39203"
+       fill="rgb(90,141,101)"
+       d="M216 336h24v24h-24v-24z" />
+    <path
+       id="path39205"
+       fill="rgb(251,251,250)"
+       d="M240 336h24v48h-24v-48z" />
+    <path
+       id="path39207"
+       fill="rgb(12,60,151)"
+       d="M312 336h24v96h-24v-96z" />
+    <path
+       id="path39209"
+       fill="rgb(203,175,37)"
+       d="M360 336h24v24h-24v-24z" />
+    <path
+       id="path39211"
+       fill="rgb(7,133,46)"
+       d="M480 336h24v72h-24v-72z" />
+    <path
+       id="path39213"
+       fill="rgb(216,207,161)"
+       d="M504 336h24v48h-24v-48z" />
+    <path
+       id="path39215"
+       fill="rgb(130,115,73)"
+       d="M168 360h24v24h-24v-24z" />
+    <path
+       id="path39217"
+       fill="rgb(69,99,40)"
+       d="M216 360h24v24h-24v-24z" />
+    <path
+       id="path39219"
+       fill="rgb(237,209,16)"
+       d="M360 360h24v24h-24v-24z" />
+    <path
+       id="path39221"
+       fill="rgb(177,152,28)"
+       d="M384 360h24v24h-24v-24z" />
+    <path
+       id="path39223"
+       fill="rgb(152,159,160)"
+       d="M456 360h24v24h-24v-24z" />
+    <path
+       id="path39225"
+       fill="rgb(7,133,46)"
+       d="M168 384h24v24h-24v-24z" />
+    <path
+       id="path39227"
+       fill="rgb(7,133,46)"
+       d="M216 384h24v24h-24v-24z" />
+    <path
+       id="path39229"
+       fill="rgb(191,190,161)"
+       d="M240 384h24v48h-24v-48z" />
+    <path
+       id="path39231"
+       fill="rgb(130,115,73)"
+       d="M360 384h24v24h-24v-24z" />
+    <path
+       id="path39233"
+       fill="rgb(203,175,37)"
+       d="M384 384h24v24h-24v-24z" />
+    <path
+       id="path39235"
+       fill="rgb(90,141,101)"
+       d="M456 384h24v24h-24v-24z" />
+    <path
+       id="path39237"
+       fill="rgb(90,141,101)"
+       d="M168 408h24v24h-24v-24z" />
+    <path
+       id="path39239"
+       fill="rgb(7,133,46)"
+       d="M192 408h24v24h24v24h72v24h-72v24h24v24h-96v-24h48v-24h-24v-72z" />
+    <path
+       id="path39241"
+       fill="rgb(90,141,101)"
+       d="M216 408h24v24h-24v-24z" />
+    <path
+       id="path39243"
+       fill="rgb(152,159,160)"
+       d="M360 408h24v24h-24v-24z" />
+    <path
+       id="path39245"
+       fill="rgb(216,207,161)"
+       d="M384 408h24v24h-24v-24z" />
+    <path
+       id="path39247"
+       fill="rgb(191,190,161)"
+       d="M408 408h24v24h-24v-24z" />
+    <path
+       id="path39249"
+       fill="rgb(90,141,101)"
+       d="M432 408h24v24h-24v-24z" />
+    <path
+       id="path39251"
+       fill="rgb(7,133,46)"
+       d="M456 408h24v72h-24v24h-48v-48h24v-24h24v-24z" />
+    <path
+       id="path39253"
+       fill="rgb(15,116,45)"
+       d="M480 408h24v24h-24v-24z" />
+    <path
+       id="path39255"
+       fill="rgb(152,159,160)"
+       d="M168 432h24v72h-24v-72z" />
+    <path
+       id="path39257"
+       fill="rgb(90,141,101)"
+       d="M240 432h24v24h-24v-24z" />
+    <path
+       id="path39259"
+       fill="rgb(15,116,45)"
+       d="M264 432h72v24h24v24h-48v-24h-48v-24z" />
+    <path
+       id="path39261"
+       fill="rgb(207,158,83)"
+       d="M336 432h24v24h-24v-24z" />
+    <path
+       id="path39263"
+       fill="rgb(130,115,73)"
+       d="M360 432h24v24h-24v-24z" />
+    <path
+       id="path39265"
+       fill="rgb(15,116,45)"
+       d="M384 432h48v24h-24v48h48v24h-96v-48h24v-48z" />
+    <path
+       id="path39267"
+       fill="rgb(90,141,101)"
+       d="M480 432h24v24h-24v-24z" />
+    <path
+       id="path39269"
+       fill="rgb(7,133,46)"
+       d="M360 456h24v24h-24v-24z" />
+    <path
+       id="path39271"
+       fill="rgb(191,190,161)"
+       d="M480 456h24v24h-24v-24z" />
+    <path
+       id="path39273"
+       fill="rgb(191,190,161)"
+       d="M144 480h24v24h-24v-24z" />
+    <path
+       id="path39275"
+       fill="rgb(15,116,45)"
+       d="M192 480h24v24h-24v-24z" />
+    <path
+       style="stroke:none"
+       id="path39277"
+       fill="rgb(15,116,45)"
+       d="M240 480h48v24h-48v-24z" />
+    <path
+       id="path39279"
+       fill="rgb(69,99,40)"
+       d="M288 480h72v24h-72v-24z" />
+    <path
+       id="path39281"
+       fill="rgb(15,116,45)"
+       d="M456 480h24v24h-24v-24z" />
+    <path
+       id="path39283"
+       fill="rgb(69,99,40)"
+       d="M144 504h24v24h-24v-24z" />
+    <path
+       id="path39285"
+       fill="rgb(152,159,160)"
+       d="M264 504h24v24h-24v-24z" />
+    <path
+       id="path39287"
+       fill="rgb(251,251,250)"
+       d="M288 504h24v24h-24v-24z" />
+    <path
+       id="path39289"
+       fill="rgb(191,190,161)"
+       d="M312 504h24v24h-24v-24z" />
+    <path
+       id="path39291"
+       fill="rgb(251,251,250)"
+       d="M336 504h24v24h-24v-24z" />
+    <path
+       id="path39293"
+       fill="rgb(7,133,46)"
+       d="M456 504h24v24h-24v-24z" />
+    <path
+       id="path39295"
+       fill="rgb(216,207,161)"
+       d="M480 504h24v24h-24v-24z" />
+    <path
+       id="path39297"
+       fill="rgb(191,190,161)"
+       d="M144 528h24v24h-24v-24z" />
+    <path
+       id="path39299"
+       fill="rgb(152,159,160)"
+       d="M168 528h24v24h-24v-24z" />
+    <path
+       id="path39301"
+       fill="rgb(216,207,161)"
+       d="M192 528h96v24h24v48h-24v-24h-24v-24h-72v-24z" />
+    <path
+       id="path39303"
+       fill="rgb(152,159,160)"
+       d="M288 528h48v72h-24v-48h-24v-24z" />
+    <path
+       id="path39305"
+       fill="rgb(191,190,161)"
+       d="M336 528h24v24h-24v-24z" />
+    <path
+       id="path39307"
+       fill="rgb(152,159,160)"
+       d="M360 528h24v24h-24v-24z" />
+    <path
+       id="path39309"
+       fill="rgb(191,190,161)"
+       d="M384 528h24v24h-24v-24z" />
+    <path
+       id="path39311"
+       fill="rgb(216,207,161)"
+       d="M408 528h24v24h-24v-24z" />
+    <path
+       id="path39313"
+       fill="rgb(251,251,250)"
+       d="M336 552h24v24h-24v-24z" />
+    <path
+       id="path39315"
+       fill="rgb(216,207,161)"
+       d="M360 552h24v24h-24v-24z" />
+    <path
+       id="path39317"
+       fill="rgb(216,207,161)"
+       d="M336 576h24v24h-24v-24z" />
+  </g>
 </svg>
